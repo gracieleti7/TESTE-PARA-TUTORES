@@ -297,4 +297,3 @@ def on_mouse_down(pos):
         elif estado_jogo.btn_sair.collidepoint(pos):
             quit()
 
-
